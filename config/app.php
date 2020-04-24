@@ -41,7 +41,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost',
+    'url' => 'http://localhost/safrique.uk',
 
     /*
     |--------------------------------------------------------------------------
@@ -107,7 +107,7 @@ return [
     |
     */
 
-    'key' => 'base64:1zvU87v+HHOpLg5/0OI/GK3ZvPubtgSGnOpGbYTgAnk=',
+    'key' => 'ttxQVDi9zRnk8aIe4s76zCJ3at5aLQhm',
 
     'cipher' => 'AES-256-CBC',
 
